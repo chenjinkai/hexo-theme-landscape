@@ -10,5 +10,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://www.akblog.top/sitemap.xml
-Sitemap: https://www.akblog.top/baidusitemap.xml
+Sitemap: https://akblog.top/sitemap.xml
+Sitemap: https://akblog.top/baidusitemap.xml
